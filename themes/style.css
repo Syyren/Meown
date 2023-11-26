@@ -1,0 +1,39 @@
+#blog-header, #contact-us-content
+{
+    text-align: center;
+}
+
+#blog-post
+{
+    text-align: center;
+    align-items: center;
+}
+
+.slider
+{
+    text-align: center;
+}
+
+.slider img
+{
+    margin: 10px auto 10px;
+}
+
+.bx-wrapper
+{
+    border-radius: 10px;
+}
+
+img
+{
+    border-radius: 10px;
+    width: 20vw;
+}
+
+@media (max-width: 600px)
+{
+    img
+{
+    width: 50vw;
+}
+}
