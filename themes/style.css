@@ -32,6 +32,12 @@ img
     width: 20vw;
 }
 
+#back-button
+{
+    width: 200px;
+    margin: 0px auto;
+}
+
 @media (max-width: 600px)
 {
     img
